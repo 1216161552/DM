@@ -1,5 +1,5 @@
 # DM
-### DataMining Homework1——2019/10/14
+### DataMining Homework1——2019/10/15
 #### Datasets——sklearn.datasets.load_digits
 | Method name | Accuracy rate | Time(单位秒) |
 | :-----:| :----: | :----: |
